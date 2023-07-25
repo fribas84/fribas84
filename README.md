@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fribas84&label=Profile%20views&color=0e75b6&style=flat" alt="fribas84" /> </p>
 
-- 🌱 I’m currently learning **Solidity, Web3, React**
+- 🌱 Web  3 Developer - Solidity TypeScript React
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
